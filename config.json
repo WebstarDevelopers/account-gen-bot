@@ -1,23 +1,23 @@
 {
-  "guild-id": "12345678901011121314",
-  "token": "YOUR_BOT_TOKEN_HERE",
-  "premium-role-id": "12345678901011121314",
+  "guild-id": "1155524107442598058",
+  "token": "MTE1NTUyNDE4OTc2ODM4ODc2OQ.GuXr6P.md9nOekLL5XrmaTQxoEZaAPZrqSc8HhooX_gUw",
+  "premium-role-id": "1155527551272357958",
   "premium-cooldown": false,
   "premium-cooldown-duration": 3,
   "cooldown-duration": 10,
   "admin-cooldown": true,
   "logs-switch": true,
-  "logs-channel-id": "12345678901011121314",
+  "logs-channel-id": "1155528467048317051",
   "channel-specific-switch": true,
-  "premium-gen-channels": ["12345678901011121314", "12345678901011121314"],
-  "free-gen-channels": ["12345678901011121314", "12345678901011121314"],
+  "premium-gen-channels": ["1155528233006157956", "1155528233006157956"],
+  "free-gen-channels": ["1155528233006157956", "1155528233006157956"],
   "messages": {
     "not-supported-channel": "This channel is not supported",
     "account-generated": "Generated account has been sent to your DMs",
-    "service-doesnt-exist": "Service doesn't exist or you typed it incorrectly",
+    "service-doesnt-exist": "This service does not exist or you typed the service incorrectly. ",
     "stock-description": "All accounts available to be generated.",
     "stock-empty-description": "There aren't any accounts to be generated.",
     "no-permissions": "You don't have access to this command.",
-    "embed-footer": "github.com/Atluzka/account-gen-bot"
+    "embed-footer": "discord.gg/robalts"
   }
 }
